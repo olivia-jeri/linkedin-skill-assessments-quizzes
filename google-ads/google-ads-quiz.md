@@ -12,7 +12,7 @@
 - [ ] Copy the optimization, visit the ad group, and past the optimization.
 - [ ] Follow the step-by-step instructions.
 - [ ] Visit the ad group, click the **Optimization** drop-down, and select **Apply All**.
-- [ ] Click **Apply** on the recommendation.
+- [x] Click **Apply** on the recommendation.
 
 #### Q3. Griff has noticed that his best-performing keywords has started to see an increased CPC, despite no changes on his part. What is the most likely reason for this?
 
@@ -38,7 +38,7 @@
 #### Q6. Maurice creates an ad headline that reads "Buy **{Keyword:hats}** Today". Which headline could `not` be displayed to a user for this ad?
 
 - [ ] Buy Caps Today
-- [ ] Buy Helmets Today
+- [x] Buy Helmets Today
 - [ ] Buy Fedoras Today
 - [ ] Buy Hats
 
@@ -73,7 +73,7 @@
 #### Q11. Kellan creates an ad headline that reads "Buy **{Keyword:Shoes}** Today". What is this an example ad?
 
 - [ ] automatic headline replacement
-- [ ] keyword insertion
+- [x] keyword insertion
 - [ ] dynamic bidding
 - [ ] auto replacement
 
